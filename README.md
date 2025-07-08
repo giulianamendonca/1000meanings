@@ -2,10 +2,6 @@
 A relational SQL database for exploring names, their meanings, and origins  
 By Giuliana Mendonça
 
-Video overview: https://youtu.be/N4ZD0j1rB-U
-
----
-
 ## About the Project
 [20000-names.com](https://www.20000-names.com/) is an online archive of names from a wide range of languages, cultures, and historical periods. However, its content is presented in long, unstructured web pages, which makes deep searching or filtering difficult, especially when looking by meaning or cultural background.
 
