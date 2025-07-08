@@ -1,0 +1,9 @@
+.read schema.sql
+
+.separator ";"
+
+.import origins.csv origins
+
+.import groups.csv groups
+
+.import names_list.csv names_list
